@@ -1,4 +1,4 @@
-aiohttp==3.6.3
+aiohttp==3.7.3
 discord.py==1.5.1
 jishaku==1.20.0.220
 psutil==5.8.0
